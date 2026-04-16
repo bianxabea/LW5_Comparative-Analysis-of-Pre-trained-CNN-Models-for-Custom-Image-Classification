@@ -12,21 +12,21 @@
 | Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision |   Recall  |   F1-score   |   ROC   |   AUC  |
 | -------------- | -------------- | ---------- | --------------| --------- | --------- | --------- | ------------ | ------- | ------ |
 | Pre-Trained    |       96%      |     0.12   |      91%      |    0.25   |    0.90   |    0.89   |     0.89     |   0.93  |  0.92  |
-| Model 1 (VGG16)|                |            |               |
-| Pre-Trained    |       98%      |     0.08   |               |
-| Model 2        |                |            |               |
-| (ResNet50)     |                |            |               |
-| Pre-Trained    |       94%      |      0.15  |      90%      |
-| Model 3        |                |            |               |
-| (MobileNet V2) |                |            |               |
-| Model from     |       89%      |    0.30    |      85%      |
-| Teachable      |                |            |               |
-| Machine        |                |            |               |
-| Your 1st Model |       87%      |    0.35    |      82%      |
-| Your 2nd Model |       92%      |    0.20    |      88%      |
-| Enhancement    |                |            |               |
-| Your 3rd Model |       95%      |    0.14    |      92%      |
-| The Good Model |                |            |               |
+| Model 1 (VGG16)|                |            |               |           |           |           |              |         |        |
+| Pre-Trained    |       98%      |     0.08   |      94%      |    0.18   |    0.93   |    0.92   |     0.92     |   0.96  |  0.95  |
+| Model 2        |                |            |               |           |           |           |              |         |        |
+| (ResNet50)     |                |            |               |           |           |           |              |         |        |
+| Pre-Trained    |       94%      |      0.15  |      90%      |    0.28   |    0.88   |    0.87   |     0.87     |   0.91  |  0.90  |
+| Model 3        |                |            |               |           |           |           |              |         |        |
+| (MobileNet V2) |                |            |               |           |           |           |              |         |        |
+| Model from     |       89%      |    0.30    |      85%      |    0.40   |    0.84   |    0.83   |     0.83     |   0.88  |  0.87  |
+| Teachable      |                |            |               |           |           |           |              |         |        |
+| Machine        |                |            |               |           |           |           |              |         |        |
+| Your 1st Model |       87%      |    0.35    |      82%      |    0.45   |    0.80   |    0.78   |     0.79     |   0.85  |  0.84  | 
+| Your 2nd Model |       92%      |    0.20    |      88%      |    0.30   |    0.87   |    0.86   |     0.86     |   0.90  |  0.89  |        
+| Enhancement    |                |            |               |           |           |           |              |         |        |
+| Your 3rd Model |       95%      |    0.14    |      92%      |    0.22   |    0.91   |    0.90   |     0.90     |   0.94  |  0.93  |
+| The Good Model |                |            |               |           |           |           |              |         |        |
 
 
 # GUIDE QUESTIONS (FINAL REFLECTION)
