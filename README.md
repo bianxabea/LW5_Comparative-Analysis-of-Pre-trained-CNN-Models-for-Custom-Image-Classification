@@ -11,7 +11,7 @@
 
 | Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision |   Recall  |   F1-score   |   ROC   |   AUC  |
 | -------------- | -------------- | ---------- | --------------| --------- | --------- | --------- | ------------ | ------- | ------ |
-| Pre-Trained    |       96%      |     0.12   |      91%      |    0.25       0.90       0.89          0.89         0.93      0.92
+| Pre-Trained    |       96%      |     0.12   |      91%      |    0.25   |    0.90   |    0.89   |     0.89     |   0.93  |  0.92  |
 | Model 1 (VGG16)|                |            |               |
 | Pre-Trained    |       98%      |     0.08   |               |
 | Model 2        |                |            |               |
