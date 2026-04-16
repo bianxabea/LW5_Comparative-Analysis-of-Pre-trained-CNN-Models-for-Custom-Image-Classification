@@ -8,11 +8,12 @@
 
 # Performance Comparison Table
 
-----------------------------------------------------------------------------------------------------
+-----------
+|          |
+|          |
+|          |
+|          |
 |
-|
-|
-
 # GUIDE QUESTIONS (FINAL REFLECTION)
 
 ## A. Model Performance
