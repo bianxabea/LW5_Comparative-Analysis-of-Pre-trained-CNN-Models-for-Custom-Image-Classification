@@ -40,7 +40,7 @@
 ## A. Model Performance
 1. Which pre-trained model achieved the highest accuracy? Why?
 
-- The pre-trained model that achieved the highest accuracy is the one that was able to classify the images most correctly among all tested models. This may be because its architecture is deeper or more effective in extracting important    image features such as edges, textures, and shapes. It may also have better generalization because it was already trained on a large dataset before fine-tuning on your own dataset.
+The pre-trained model that achieved the highest accuracy is the one that was able to classify the images most correctly among all tested models. This may be because its architecture is deeper or more effective in extracting important    image features such as edges, textures, and shapes. It may also have better generalization because it was already trained on a large dataset before fine-tuning on your own dataset.
 
 3. Which model had the lowest performance? What could be the reason?
 
