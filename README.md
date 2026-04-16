@@ -46,7 +46,7 @@ The pre-trained model that achieved the highest accuracy is the one that was abl
 
 The model with the lowest performance is the one with the smallest accuracy and weaker evaluation scores. Possible reasons include limited ability to capture complex image patterns, underfitting, overfitting, insufficient training time, poor hyperparameter settings, or difficulty adapting to your dataset.
 
-**3 . How did loss values compare across models?**
+**3. How did loss values compare across models?**
 
 Loss values show how far the model’s predictions are from the actual labels. A model with lower validation loss generally performed better because it made fewer errors during prediction. If one model had low training loss but high validation loss, this may indicate overfitting.
 
@@ -61,7 +61,7 @@ Accuracy alone is not enough because it only shows the overall percentage of cor
 
 The model with the best F1-score is the one that had the best balance between precision and recall. A high F1-score indicates that the model not only predicts correctly but also avoids too many false positives and false negatives. This means the model is more reliable in classification tasks.
 
-6. How did Precision and Recall differ across models?
+**6. How did Precision and Recall differ across models?**
 
 Precision measures how many predicted positive results were actually correct, while recall measures how many actual positive cases were successfully identified. Some models may have higher precision but lower recall, meaning they are more careful but may miss some true cases. Others may have higher recall but lower precision, meaning they detect more positives but also produce more false alarms.
 
