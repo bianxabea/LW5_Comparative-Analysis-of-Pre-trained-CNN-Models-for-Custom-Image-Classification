@@ -38,26 +38,26 @@
 # GUIDE QUESTIONS (FINAL REFLECTION)
 
 ## A. Model Performance
-1. Which pre-trained model achieved the highest accuracy? Why?
+**1. Which pre-trained model achieved the highest accuracy? Why?**
 
 The pre-trained model that achieved the highest accuracy is the one that was able to classify the images most correctly among all tested models. This may be because its architecture is deeper or more effective in extracting important    image features such as edges, textures, and shapes. It may also have better generalization because it was already trained on a large dataset before fine-tuning on your own dataset.
 
-3. Which model had the lowest performance? What could be the reason?
+**2. Which model had the lowest performance? What could be the reason?**
 
 The model with the lowest performance is the one with the smallest accuracy and weaker evaluation scores. Possible reasons include limited ability to capture complex image patterns, underfitting, overfitting, insufficient training time, poor hyperparameter settings, or difficulty adapting to your dataset.
 
-3 . How did loss values compare across models?
+**3 . How did loss values compare across models?**
 
 Loss values show how far the model’s predictions are from the actual labels. A model with lower validation loss generally performed better because it made fewer errors during prediction. If one model had low training loss but high validation loss, this may indicate overfitting.
 
 ---
 
 ## B. Evaluation Metrics
-4. Why is accuracy not enough to evaluate a model?
+**4. Why is accuracy not enough to evaluate a model?**
 
 Accuracy alone is not enough because it only shows the overall percentage of correct predictions. It does not explain whether the model performs well for each class. In cases of imbalanced datasets, a model may achieve high accuracy while still performing poorly on minority classes.
 
-5. Which model had the best F1-score? What does it indicate?
+**5. Which model had the best F1-score? What does it indicate?**
 
 The model with the best F1-score is the one that had the best balance between precision and recall. A high F1-score indicates that the model not only predicts correctly but also avoids too many false positives and false negatives. This means the model is more reliable in classification tasks.
 
